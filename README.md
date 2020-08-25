@@ -6,12 +6,11 @@
 <p>
   
 - 🔭 Microsoft Azure & Cloud native architecture 
-- 🌱 Nondenominal anti-technology religion 
-- 👯 Collaborations
+- 👯 Empathy, curiosity and collaborations 
 - 📫 [@moimhossain](https://twitter.com/MoimHossain)
 - 😄 He/Him/His
-- ⚡ [Blog](https://moimhossain.com/author/mdmoimhossain/) 
-- ⚡ [Hobby](https://500px.com/moimhossain)
+- ⚡ [Blog: moimhossain.com](https://moimhossain.com/author/mdmoimhossain/) 
+- ⚡ [Hobby: Photography](https://500px.com/moimhossain)
 </p>
 </td><td valign="top" width="50%">
   
