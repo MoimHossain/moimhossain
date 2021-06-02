@@ -1,1 +1,1 @@
-![Metrics](https://raw.githubusercontent.com/MoimHossain/git-contribution-generator/main/example/index.html)
+![Metrics](https://blue-grass-03fd9e903.azurestaticapps.net/)
