@@ -18,6 +18,8 @@
 - [Accelerate Governance with Deployment Environments](https://moimhossain.com/2022/10/27/accelerate-governance-with-deployment-environments/)
 - [Demystifying Azure Container Apps &amp; Dapr – Part 5](https://moimhossain.com/2022/10/25/demystifying-azure-container-apps-dapr-part-5/)
 - [Demystifying Azure Container Apps &amp; Dapr – Part 4](https://moimhossain.com/2022/10/24/demystifying-azure-container-apps-dapr-part-4/)
+- [Demystifying Azure Container Apps &amp; Dapr – Part 3](https://moimhossain.com/2022/10/22/demystifying-azure-container-apps-dapr-part-3/)
+- [Demystifying Azure Container Apps &amp; Dapr – Part 2](https://moimhossain.com/2022/10/21/demystifying-azure-container-apps-dapr-part-2/)
 <!-- BLOG-POST-LIST:END -->
 
 
