@@ -1,0 +1,17 @@
+name: Latest blog post workflow
+on:
+  schedule: # Run workflow automatically
+    - cron: '0 * * * *' # Runs every hour, on the hour
+  workflow_dispatch: 
+
+jobs:
+  update-readme-with-blog:
+    name: Update README
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Pull moimhossain.com feed
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://moimhossain.com/feed/"
