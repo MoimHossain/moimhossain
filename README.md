@@ -15,13 +15,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=B218F7&width=435&lines=Recent+blog+posts+from+https%3A%2F%2Fmoimhossain.com)](https://git.io/typing-svg)
 <!-- BLOG-POST-LIST:START -->
+- [Secure API with API Management, network integrated Container Apps](https://moimhossain.com/2023/07/24/secure-api-with-api-management-network-integrated-container-apps/)
 - [Azure DevOps Container agents without PAT](https://moimhossain.com/2023/04/04/azure-devops-container-agents-without-pat/)
 - [GitOps for AKS with Azure Blob Storage &lpar;Flux v2&rpar;](https://moimhossain.com/2023/04/03/gitops-for-aks-with-azure-blob-storage-flux-v2/)
 - [Azure DevOps security as Code](https://moimhossain.com/2023/03/29/azure-devops-security-as-code/)
 - [Exploring WASM, WASI with .net7 &amp; Docker](https://moimhossain.com/2023/02/10/exploring-wasm-wasi-with-net7-docker/)
 - [Self-Hosted GitHub runner on Azure Container Apps](https://moimhossain.com/2022/11/17/self-hosted-github-runner-on-azure-container-apps/)
 - [Self-Hosted Azure DevOps pool on Azure Container Apps](https://moimhossain.com/2022/11/08/self-hosted-azure-devops-pool-on-azure-container-apps/)
-- [Accelerate Governance with Deployment Environments](https://moimhossain.com/2022/10/27/accelerate-governance-with-deployment-environments/)
 <!-- BLOG-POST-LIST:END -->
 
 
