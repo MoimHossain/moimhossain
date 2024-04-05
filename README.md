@@ -15,13 +15,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=B218F7&width=435&lines=Recent+blog+posts+from+https%3A%2F%2Fmoimhossain.com)](https://git.io/typing-svg)
 <!-- BLOG-POST-LIST:START -->
+- [Streamlining Azure Resource Management with AI-Powered LCM](https://moimhossain.com/2024/04/05/streamlining-azure-resource-management-with-ai-powered-lcm/)
 - [AKS Workload identity – A Deeper look](https://moimhossain.com/2024/03/29/aks-workload-identity-a-deeper-look/)
 - [End-to-End Security: Function, Azure SQL, and API Management](https://moimhossain.com/2024/02/08/end-to-end-security-function-azure-sql-and-api-management/)
 - [Enforce stateless containers on Azure](https://moimhossain.com/2024/01/31/enforce-stateless-containers-on-azure/)
 - [Orion-Guardian: Azure DevOps Security Management at Scale](https://moimhossain.com/2024/01/04/orion-guardian/)
 - [Azure Communication Service with Managed Identity](https://moimhossain.com/2023/09/05/azure-communication-service-with-managed-identity/)
 - [Infusing Azure Open AI into a Copilot for Azure DevOps](https://moimhossain.com/2023/07/31/infusing-azure-open-ai-into-a-copilot-for-azure-devops/)
-- [Email and SMS with Azure Communication Service: Step-by-Step](https://moimhossain.com/2023/07/26/email-and-sms-with-azure-communication-service-step-by-step/)
 <!-- BLOG-POST-LIST:END -->
 
 
