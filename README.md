@@ -15,7 +15,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=B218F7&width=435&lines=Recent+blog+posts+from+https%3A%2F%2Fmoimhossain.com)](https://git.io/typing-svg)
 <!-- BLOG-POST-LIST:START -->
-- [Post message to MS Teams from Azure Pipeline – using Graph API](https://moimhossain.com/2024/08/21/post-message-to-ms-teams-from-azure-pipeline-using-graph-api/)
+- [Azure Pipeline Task for Microsoft Teams Channel Messages via Graph API](https://moimhossain.com/2024/08/21/post-message-to-ms-teams-from-azure-pipeline-using-graph-api/)
 - [Calculate SLA from Architecture Diagram](https://moimhossain.com/2024/07/24/calculate-sla-from-architecture-diagram/)
 - [Creating Custom Widget for Managing Client Secrets in APIM Developer Portal](https://moimhossain.com/2024/06/05/creating-custom-widget-for-managing-client-secrets-in-apim-developer-portal/)
 - [Streamlining Azure Resource Management with AI-Powered LCM](https://moimhossain.com/2024/04/05/streamlining-azure-resource-management-with-ai-powered-lcm/)
