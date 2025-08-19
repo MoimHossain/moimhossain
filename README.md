@@ -21,7 +21,6 @@
 
 [![🌟 Blog](https://img.shields.io/badge/🌟_Blog-moimhossain.com-FF6B35?style=for-the-badge&logo=rss&logoColor=white)](https://moimhossain.com/)
 [![🚀 GitHub](https://img.shields.io/badge/🚀_GitHub-moimhossain-6CC644?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moimhossain)
-[![🐦 Twitter](https://img.shields.io/badge/🐦_Twitter-@MoimHossain-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/moimhossain)
 [![💼 LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moimhossain/)
 
 </div>
