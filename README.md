@@ -34,7 +34,7 @@
 <table border="0" cellpadding="10">
 <tr>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/microsoft-azure.png"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="96" height="96"/>
 <br><strong>☁️ Cloud Architecture</strong>
 <br><em>Designing scalable solutions</em>
 </td>
