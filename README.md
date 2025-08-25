@@ -97,7 +97,7 @@
 <table border="0" cellspacing="10" cellpadding="0">
 <tr>
 <td align="center" width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=moimhossain&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF9500&currStreakLabel=58A6FF" alt="GitHub Streak Stats" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=moimhossain&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF9500" alt="Activity Graph" width="100%"/>
 </td>
 <td align="center" width="50%">
 <img src="https://github-readme-stats.vercel.app/api?username=moimhossain&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" />
@@ -105,19 +105,8 @@
 </tr>
 </table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=moimhossain&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF9500" alt="Activity Graph" width="100%"/>
+
 
 </div>
 
----
-
-<div align="center">
-
-### 🏆 **Achievement Unlocked** 🏆
-
-<img src="https://github-profile-trophy.vercel.app/?username=moimhossain&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7" alt="Trophy Stats"/>
-
-</div>
-
----
 
