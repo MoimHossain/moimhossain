@@ -79,13 +79,13 @@
 </div>
 
 <!-- BLOG-POST-LIST:START -->
+- [Securely Trigger GitHub Workflows from Azure Logic Apps Using GitHub App Authentication](https://moimhossain.com/2025/08/27/securely-trigger-github-workflows-from-azure-logic-apps-using-github-app-authentication/)
 - [Multi-Tenant Identity Federation: Accessing Multiple Entra ID Tenants with Managed Identity](https://moimhossain.com/2025/08/22/multi-tenant-identity-federation-accessing-multiple-entra-id-tenants-with-managed-identity/)
 - [Observability Unleashed: OpenTelemetry in Azure Functions with Go](https://moimhossain.com/2025/07/25/observability-unleashed-opentelemetry-in-azure-functions-with-go/)
 - [Blue-Green and Canary Releases with Zero-Downtime for Azure Functions Flex Consumption with APIM](https://moimhossain.com/2025/07/17/blue-green-and-canary-releases-with-zero-downtime-for-azure-functions-flex-consumption-with-apim/)
 - [Azure Bot Service &amp; Microsoft Teams – Architecture and Message Flow](https://moimhossain.com/2025/05/22/azure-bot-service-microsoft-teams-architecture-and-message-flow/)
 - [Implementing RAG with WebRTC and Azure AI Search](https://moimhossain.com/2025/05/08/implementing-rag-with-webrtc-and-azure-ai-search/)
 - [Enhance GitHub Copilot with RAG in VS Code – Part 3](https://moimhossain.com/2025/03/19/enhance-github-copilot-with-rag-in-vs-code/)
-- [Building GitHub Copilot Extension with Skillset – Part 2](https://moimhossain.com/2025/03/14/building-github-copilot-extension-with-skillset-part-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
