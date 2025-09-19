@@ -79,6 +79,7 @@
 </div>
 
 <!-- BLOG-POST-LIST:START -->
+- [Measuring API Latency &amp; Throughput with k6](https://moimhossain.com/2025/09/19/measuring-api-latency-throughput-with-k6/)
 - [Securely Trigger GitHub Workflows from Azure Logic Apps Using GitHub App Authentication](https://moimhossain.com/2025/08/27/securely-trigger-github-workflows-from-azure-logic-apps-using-github-app-authentication/)
 - [Multi-Tenant Identity Federation: Accessing Multiple Entra ID Tenants with Managed Identity](https://moimhossain.com/2025/08/22/multi-tenant-identity-federation-accessing-multiple-entra-id-tenants-with-managed-identity/)
 - [Observability Unleashed: OpenTelemetry in Azure Functions with Go](https://moimhossain.com/2025/07/25/observability-unleashed-opentelemetry-in-azure-functions-with-go/)
@@ -88,7 +89,6 @@
 - [Enhance GitHub Copilot with RAG in VS Code – Part 3](https://moimhossain.com/2025/03/19/enhance-github-copilot-with-rag-in-vs-code/)
 - [Building GitHub Copilot Extension with Skillset – Part 2](https://moimhossain.com/2025/03/14/building-github-copilot-extension-with-skillset-part-2/)
 - [Building a GitHub Copilot Extension with GitHub Apps – Part 1](https://moimhossain.com/2025/03/14/building-a-github-copilot-extension-with-github-apps/)
-- [Building a Secure Azure Bot for Microsoft Teams](https://moimhossain.com/2024/11/13/building-a-secure-azure-bot-for-microsoft-teams/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
