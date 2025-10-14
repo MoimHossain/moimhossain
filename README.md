@@ -79,6 +79,8 @@
 </div>
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Backstage AI Chat Plugin with Azure AI Foundry Agents](https://moimhossain.com/2025/10/14/building-backstage-ai-chat-plugin-with-azure-ai-foundry-agents/)
+- [Backstage on Azure Container Apps with Microsoft Entra ID &lpar;Azure AD&rpar; Authentication](https://moimhossain.com/2025/10/14/backstage-on-azure-container-apps-with-microsoft-entra-id-azure-ad-authentication/)
 - [Measuring API Latency &amp; Throughput with k6](https://moimhossain.com/2025/09/19/measuring-api-latency-throughput-with-k6/)
 - [Securely Trigger GitHub Workflows from Azure Logic Apps Using GitHub App Authentication](https://moimhossain.com/2025/08/27/securely-trigger-github-workflows-from-azure-logic-apps-using-github-app-authentication/)
 - [Multi-Tenant Identity Federation: Accessing Multiple Entra ID Tenants with Managed Identity](https://moimhossain.com/2025/08/22/multi-tenant-identity-federation-accessing-multiple-entra-id-tenants-with-managed-identity/)
@@ -87,8 +89,6 @@
 - [Azure Bot Service &amp; Microsoft Teams – Architecture and Message Flow](https://moimhossain.com/2025/05/22/azure-bot-service-microsoft-teams-architecture-and-message-flow/)
 - [Implementing RAG with WebRTC and Azure AI Search](https://moimhossain.com/2025/05/08/implementing-rag-with-webrtc-and-azure-ai-search/)
 - [Enhance GitHub Copilot with RAG in VS Code – Part 3](https://moimhossain.com/2025/03/19/enhance-github-copilot-with-rag-in-vs-code/)
-- [Building GitHub Copilot Extension with Skillset – Part 2](https://moimhossain.com/2025/03/14/building-github-copilot-extension-with-skillset-part-2/)
-- [Building a GitHub Copilot Extension with GitHub Apps – Part 1](https://moimhossain.com/2025/03/14/building-a-github-copilot-extension-with-github-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
