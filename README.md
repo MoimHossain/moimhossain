@@ -79,6 +79,7 @@
 </div>
 
 <!-- BLOG-POST-LIST:START -->
+- [Migrating Azure DevOps repositories to GitHub Enterprise with the GitHub import APIs](https://moimhossain.com/2025/11/25/migrating-azure-devops-repositories-to-github-enterprise-with-the-github-import-apis/)
 - [Synapse deployments with Workload Identity from Azure Pipeline](https://moimhossain.com/2025/11/03/synapse-deployments-with-workload-identity-from-azure-pipeline/)
 - [Building Backstage AI Chat Plugin with Azure AI Foundry Agents](https://moimhossain.com/2025/10/14/building-backstage-ai-chat-plugin-with-azure-ai-foundry-agents/)
 - [Backstage on Azure Container Apps with Microsoft Entra ID &lpar;Azure AD&rpar; Authentication](https://moimhossain.com/2025/10/14/backstage-on-azure-container-apps-with-microsoft-entra-id-azure-ad-authentication/)
@@ -88,7 +89,6 @@
 - [Observability Unleashed: OpenTelemetry in Azure Functions with Go](https://moimhossain.com/2025/07/25/observability-unleashed-opentelemetry-in-azure-functions-with-go/)
 - [Blue-Green and Canary Releases with Zero-Downtime for Azure Functions Flex Consumption with APIM](https://moimhossain.com/2025/07/17/blue-green-and-canary-releases-with-zero-downtime-for-azure-functions-flex-consumption-with-apim/)
 - [Azure Bot Service &amp; Microsoft Teams – Architecture and Message Flow](https://moimhossain.com/2025/05/22/azure-bot-service-microsoft-teams-architecture-and-message-flow/)
-- [Implementing RAG with WebRTC and Azure AI Search](https://moimhossain.com/2025/05/08/implementing-rag-with-webrtc-and-azure-ai-search/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
