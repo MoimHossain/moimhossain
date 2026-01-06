@@ -79,6 +79,7 @@
 </div>
 
 <!-- BLOG-POST-LIST:START -->
+- [Blueprints for Unified Azure Pipelines: Governing Rolling, Blue/Green, and Canary Deployments](https://moimhossain.com/2026/01/06/blueprints-for-unified-azure-pipelines-governing-rolling-blue-green-and-canary-deployments/)
 - [Migrating Azure DevOps repositories to GitHub Enterprise with the GitHub import APIs](https://moimhossain.com/2025/11/25/migrating-azure-devops-repositories-to-github-enterprise-with-the-github-import-apis/)
 - [Synapse deployments with Workload Identity from Azure Pipeline](https://moimhossain.com/2025/11/03/synapse-deployments-with-workload-identity-from-azure-pipeline/)
 - [Building Backstage AI Chat Plugin with Azure AI Foundry Agents](https://moimhossain.com/2025/10/14/building-backstage-ai-chat-plugin-with-azure-ai-foundry-agents/)
@@ -88,7 +89,6 @@
 - [Multi-Tenant Identity Federation: Accessing Multiple Entra ID Tenants with Managed Identity](https://moimhossain.com/2025/08/22/multi-tenant-identity-federation-accessing-multiple-entra-id-tenants-with-managed-identity/)
 - [Observability Unleashed: OpenTelemetry in Azure Functions with Go](https://moimhossain.com/2025/07/25/observability-unleashed-opentelemetry-in-azure-functions-with-go/)
 - [Blue-Green and Canary Releases with Zero-Downtime for Azure Functions Flex Consumption with APIM](https://moimhossain.com/2025/07/17/blue-green-and-canary-releases-with-zero-downtime-for-azure-functions-flex-consumption-with-apim/)
-- [Azure Bot Service &amp; Microsoft Teams – Architecture and Message Flow](https://moimhossain.com/2025/05/22/azure-bot-service-microsoft-teams-architecture-and-message-flow/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
