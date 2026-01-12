@@ -92,23 +92,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
-<div align="center">
-
-### 📊 **GitHub Analytics Dashboard** 📊
-
-<table border="0" cellspacing="10" cellpadding="0">
-<tr>
-<td align="center" width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=moimhossain&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF9500&currStreakLabel=58A6FF" alt="GitHub Streak Stats" width="100%"/>
-</td>
-<td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=moimhossain&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" alt="GitHub Stats" width="100%"/>
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moimhossain&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" alt="Top Languages" width="100%"/>
+rcel.app/api/top-langs/?username=moimhossain&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" alt="Top Languages" width="100%"/>
 </td>
 </tr>
 </table>
