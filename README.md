@@ -100,7 +100,7 @@
 <table border="0" cellspacing="10" cellpadding="0">
 <tr>
 <td align="center" width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=moimhossain&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF9500&currStreakLabel=58A6FF" alt="GitHub Streak Stats" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=moimhossain&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF9500&currStreakLabel=58A6FF" alt="GitHub Streak Stats" width="100%"/>
 </td>
 <td align="center" width="50%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moimhossain&theme=tokyonight" alt="GitHub Profile Summary" width="100%"/>
