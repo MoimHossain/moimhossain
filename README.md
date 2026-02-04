@@ -79,6 +79,7 @@
 </div>
 
 <!-- BLOG-POST-LIST:START -->
+- [This Azure Pipeline Pattern Scales to 100+ Teams &lpar;Rolling, Canary &amp; Blue-Green&rpar;](https://moimhossain.com/2026/02/04/this-azure-pipeline-pattern-scales-to-100-teams-rolling-canary-blue-green/)
 - [Blueprints for Unified Azure Pipelines: Governing Rolling, Blue/Green, and Canary Deployments](https://moimhossain.com/2026/01/06/blueprints-for-unified-azure-pipelines-governing-rolling-blue-green-and-canary-deployments/)
 - [Migrating Azure DevOps repositories to GitHub Enterprise with the GitHub import APIs](https://moimhossain.com/2025/11/25/migrating-azure-devops-repositories-to-github-enterprise-with-the-github-import-apis/)
 - [Synapse deployments with Workload Identity from Azure Pipeline](https://moimhossain.com/2025/11/03/synapse-deployments-with-workload-identity-from-azure-pipeline/)
@@ -88,7 +89,6 @@
 - [Securely Trigger GitHub Workflows from Azure Logic Apps Using GitHub App Authentication](https://moimhossain.com/2025/08/27/securely-trigger-github-workflows-from-azure-logic-apps-using-github-app-authentication/)
 - [Multi-Tenant Identity Federation: Accessing Multiple Entra ID Tenants with Managed Identity](https://moimhossain.com/2025/08/22/multi-tenant-identity-federation-accessing-multiple-entra-id-tenants-with-managed-identity/)
 - [Observability Unleashed: OpenTelemetry in Azure Functions with Go](https://moimhossain.com/2025/07/25/observability-unleashed-opentelemetry-in-azure-functions-with-go/)
-- [Blue-Green and Canary Releases with Zero-Downtime for Azure Functions Flex Consumption with APIM](https://moimhossain.com/2025/07/17/blue-green-and-canary-releases-with-zero-downtime-for-azure-functions-flex-consumption-with-apim/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
