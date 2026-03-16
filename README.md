@@ -79,6 +79,7 @@
 </div>
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a CLI for Dynamics 365 CRM — And Turning It Into an AI Agent Skill](https://moimhossain.com/2026/03/16/building-a-cli-for-dynamics-365-crm-and-turning-it-into-an-ai-agent-skill/)
 - [Building AI Agents on Azure Container Apps with the GitHub Copilot SDK and Your Own Foundry Models](https://moimhossain.com/2026/03/04/building-ai-agents-on-azure-container-apps-with-the-github-copilot-sdk-and-your-own-foundry-models/)
 - [This Azure Pipeline Pattern Scales to 100+ Teams &lpar;Rolling, Canary &amp; Blue-Green&rpar;](https://moimhossain.com/2026/02/04/this-azure-pipeline-pattern-scales-to-100-teams-rolling-canary-blue-green/)
 - [Blueprints for Unified Azure Pipelines: Governing Rolling, Blue/Green, and Canary Deployments](https://moimhossain.com/2026/01/06/blueprints-for-unified-azure-pipelines-governing-rolling-blue-green-and-canary-deployments/)
@@ -88,7 +89,6 @@
 - [Backstage on Azure Container Apps with Microsoft Entra ID &lpar;Azure AD&rpar; Authentication](https://moimhossain.com/2025/10/14/backstage-on-azure-container-apps-with-microsoft-entra-id-azure-ad-authentication/)
 - [Measuring API Latency &amp; Throughput with k6](https://moimhossain.com/2025/09/19/measuring-api-latency-throughput-with-k6/)
 - [Securely Trigger GitHub Workflows from Azure Logic Apps Using GitHub App Authentication](https://moimhossain.com/2025/08/27/securely-trigger-github-workflows-from-azure-logic-apps-using-github-app-authentication/)
-- [Multi-Tenant Identity Federation: Accessing Multiple Entra ID Tenants with Managed Identity](https://moimhossain.com/2025/08/22/multi-tenant-identity-federation-accessing-multiple-entra-id-tenants-with-managed-identity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
