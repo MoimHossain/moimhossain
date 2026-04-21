@@ -79,6 +79,7 @@
 </div>
 
 <!-- BLOG-POST-LIST:START -->
+- [Detect Inactive Azure DevOps Area-Paths efficiently](https://moimhossain.com/2026/04/21/detect-inactive-azure-devops-area-paths-efficiently/)
 - [GitHub ↔ Azure DevOps Integration: A Deep Dive](https://moimhossain.com/2026/03/17/github-%e2%86%94-azure-devops-integration-a-deep-dive/)
 - [Building a CLI for Dynamics 365 CRM — And Turning It Into an AI Agent Skill](https://moimhossain.com/2026/03/16/building-a-cli-for-dynamics-365-crm-and-turning-it-into-an-ai-agent-skill/)
 - [Building AI Agents on Azure Container Apps with the GitHub Copilot SDK and Your Own Foundry Models](https://moimhossain.com/2026/03/04/building-ai-agents-on-azure-container-apps-with-the-github-copilot-sdk-and-your-own-foundry-models/)
@@ -88,7 +89,6 @@
 - [Synapse deployments with Workload Identity from Azure Pipeline](https://moimhossain.com/2025/11/03/synapse-deployments-with-workload-identity-from-azure-pipeline/)
 - [Building Backstage AI Chat Plugin with Azure AI Foundry Agents](https://moimhossain.com/2025/10/14/building-backstage-ai-chat-plugin-with-azure-ai-foundry-agents/)
 - [Backstage on Azure Container Apps with Microsoft Entra ID &lpar;Azure AD&rpar; Authentication](https://moimhossain.com/2025/10/14/backstage-on-azure-container-apps-with-microsoft-entra-id-azure-ad-authentication/)
-- [Measuring API Latency &amp; Throughput with k6](https://moimhossain.com/2025/09/19/measuring-api-latency-throughput-with-k6/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
