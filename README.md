@@ -79,6 +79,7 @@
 </div>
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Serverless AI Agent on Azure Functions – with Nothing but a Markdown File](https://moimhossain.com/2026/07/07/building-a-serverless-ai-agent-on-azure-functions-with-nothing-but-a-markdown-file/)
 - [From RSS Scraper to MCP-Powered Radar: How AzRadar Grew Up](https://moimhossain.com/2026/05/20/from-rss-scraper-to-mcp-powered-radar-how-azradar-grew-up/)
 - [Detect Inactive Azure DevOps Area-Paths efficiently](https://moimhossain.com/2026/04/21/detect-inactive-azure-devops-area-paths-efficiently/)
 - [GitHub ↔ Azure DevOps Integration: A Deep Dive](https://moimhossain.com/2026/03/17/github-%e2%86%94-azure-devops-integration-a-deep-dive/)
@@ -88,7 +89,6 @@
 - [Blueprints for Unified Azure Pipelines: Governing Rolling, Blue/Green, and Canary Deployments](https://moimhossain.com/2026/01/06/blueprints-for-unified-azure-pipelines-governing-rolling-blue-green-and-canary-deployments/)
 - [Migrating Azure DevOps repositories to GitHub Enterprise with the GitHub import APIs](https://moimhossain.com/2025/11/25/migrating-azure-devops-repositories-to-github-enterprise-with-the-github-import-apis/)
 - [Synapse deployments with Workload Identity from Azure Pipeline](https://moimhossain.com/2025/11/03/synapse-deployments-with-workload-identity-from-azure-pipeline/)
-- [Building Backstage AI Chat Plugin with Azure AI Foundry Agents](https://moimhossain.com/2025/10/14/building-backstage-ai-chat-plugin-with-azure-ai-foundry-agents/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
