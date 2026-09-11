@@ -79,6 +79,7 @@
 </div>
 
 <!-- BLOG-POST-LIST:START -->
+- [From Radar to Response: How CloudLens Learned to Deliver Azure Service Health into Teams](https://moimhossain.com/2026/09/11/from-radar-to-response-how-cloudlens-learned-to-deliver-azure-service-health-into-teams/)
 - [Operating Azure DevOps-to-GitHub EMU Migrations at Enterprise Scale](https://moimhossain.com/2026/08/31/operating-azure-devops-to-github-emu-migrations-at-enterprise-scale/)
 - [Building a Serverless AI Agent on Azure Functions – with Nothing but a Markdown File](https://moimhossain.com/2026/07/07/building-a-serverless-ai-agent-on-azure-functions-with-nothing-but-a-markdown-file/)
 - [From RSS Scraper to MCP-Powered Radar: How AzRadar Grew Up](https://moimhossain.com/2026/05/20/from-rss-scraper-to-mcp-powered-radar-how-azradar-grew-up/)
@@ -88,7 +89,6 @@
 - [Building AI Agents on Azure Container Apps with the GitHub Copilot SDK and Your Own Foundry Models](https://moimhossain.com/2026/03/04/building-ai-agents-on-azure-container-apps-with-the-github-copilot-sdk-and-your-own-foundry-models/)
 - [This Azure Pipeline Pattern Scales to 100+ Teams &lpar;Rolling, Canary &amp; Blue-Green&rpar;](https://moimhossain.com/2026/02/04/this-azure-pipeline-pattern-scales-to-100-teams-rolling-canary-blue-green/)
 - [Blueprints for Unified Azure Pipelines: Governing Rolling, Blue/Green, and Canary Deployments](https://moimhossain.com/2026/01/06/blueprints-for-unified-azure-pipelines-governing-rolling-blue-green-and-canary-deployments/)
-- [Migrating Azure DevOps repositories to GitHub Enterprise with the GitHub import APIs](https://moimhossain.com/2025/11/25/migrating-azure-devops-repositories-to-github-enterprise-with-the-github-import-apis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
